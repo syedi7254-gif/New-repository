@@ -1,0 +1,3 @@
+Original content
+New changes in file1
+Testing Git hooks
