@@ -1,0 +1,45 @@
+@channel Start working on Below Tasks for today.
+Notes: Create a Jira ticket for this assignment, work on the tasks listed below, and submit the task completion document by EOD with clear steps and required evidence (outputs/screenshots)
+
+1. Create user with name Techie and provide sudo access to user..
+2. Navigate to the home directory..
+3. Create a new directory..
+4. List the contents of a directory..
+5. Change the current directory..
+6. Create a new empty file..
+7. View the contents of a file..
+8. Copy a file to another location..
+9. Move a file to another location..
+10. Rename a file..
+11. Delete a file..
+12. Grant or revoke permissions on a file or directory..
+13. View the current date and time..
+14. Check the system uptime..
+15. View the running processes..
+16. Kill a running process..
+17. Install a package using the package manager (e.g., apt or yum)..
+18. Update the system packages..
+19. Create a symbolic link..
+20. Search for files using the find command..
+21. Compress and decompress files using tar..
+22. Monitor system resources with top or htop..
+23. Create and manage user groups..
+24. Set up SSH password less authentication..
+25. Monitor log files using tail or grep..
+26. Set up a web server (e.g., Apache or Nginx)..
+27. Configure and secure a MySQL Database..
+28. Set up a Application Server (e.g.,Apache Tomcat).
+29. create a service file for Apache Tomcat.(Should execute by using systemtctl command).
+30. Print specific columns from a delimited file..
+31. Filter and print lines based on a specific pattern or condition..
+32. Calculate and print the average, sum, or other statistics of a column..
+33. Perform string manipulation, such as extracting substrings or changing case..
+34. Count the occurrences of a specific pattern in a file..
+35. Sort lines based on a specific field or column..
+36. Merge multiple files based on a common field or column..
+37. Substitute text in a file using search and replace..
+38. Delete specific lines based on a pattern or line number..
+39. Append or insert text before or after a specific pattern or line..
+40. Print only specific lines from a file..
+41. Copy file from linux to windows machine.
+42. 5 use cases for AWK and 5 use cases for sed.
